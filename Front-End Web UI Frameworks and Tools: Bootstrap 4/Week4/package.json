@@ -21,7 +21,7 @@
   "homepage": "https://github.com/venishpatidar/FullStackWebDev#readme",
   "devDependencies": {
     "lite-server": "^2.5.4",
-    "node-sass": "^4.7.2"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
